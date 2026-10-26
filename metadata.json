@@ -1,0 +1,6 @@
+{
+  "name": "معمل المقذوفات الفيزيائي المتقدم",
+  "description": "المحاكاة الشاملة لحركة المقذوفات للمنهج الثانوي مع الحسابات المباشرة والعكسية ورسم المتجهات",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
